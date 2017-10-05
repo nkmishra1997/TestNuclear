@@ -134,7 +134,7 @@
  /*header section*/
  
  #headerbackground {
-     background-image: url("../images/slider/lp1.jpg");
+     background-image: url("../images/cover%20page.png");
      background-attachment: fixed;
      -webkit-background-size: cover;
      -moz-background-size: cover;
@@ -555,7 +555,7 @@ header.video-header {
 ------------------------------------------------------*/
  
  .about-section {
-     background-image: url("../images/about/ab1.jpg");
+     background-image: url("../images/about/ab1.png");
      -webkit-background-size: cover;
      -moz-background-size: cover;
      -ms-background-size: cover;
